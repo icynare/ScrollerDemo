@@ -1,0 +1,6 @@
+.git
+.vs
+Library/
+Temp/
+*.csproj
+*.sln
